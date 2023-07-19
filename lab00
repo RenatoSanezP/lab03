@@ -6,5 +6,4 @@ int main() {
 cout << "Hellow, world!" << endl << "I am ready for CS16" << endl;
 
 return 0;
-
 }
